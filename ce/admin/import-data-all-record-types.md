@@ -47,7 +47,9 @@ There are several ways to import data into [!INCLUDE [pn-crm-shortest](../includ
    > - The file names exactly match the display name of the record type.  
    >   -   The column headings of the file you are importing exactly match the display names of the fields in the record.  
   
-3. To add data for an individual record, the quickest way is to use **Quick Create** from the nav bar or **New** from the entity form.  
-  
+3. To add data for an individual record, the quickest way is to use **Quick Create** from the nav bar or **New** from the entity form. 
+
+4. It is recommended to limit your imports within 20K Rows at a time.  
+
 ### See also  
  [Detect duplicate data](../admin/detect-duplicate-data.md)
